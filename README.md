@@ -6,6 +6,7 @@ caltimes
 
 Das Textfile muss folgendes Format haben: 
 > 17:21 18.04.2013 callerid Hier kann ich Beschreibungen einfügen 17:27 18.04.2013
+
 * !! Hinweis !! im Notepad kann ein Zeitstempel mit F5 eingefügt werden !!!
 * callerid = kundennummer o.ä.
 *  Zeilen die mit '#' beginnen genauso wie Leerzeilen werden ignoriert.
