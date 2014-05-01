@@ -1,0 +1,5 @@
+# Beispiel Zeiten.txt
+# Kommentare 
+# beginnen mit #
+21:26 01.05.2014 14487 Kunde hat blabla dies das 21:27 01.05.2014
+22:45 01.05.2014 38743 Dies und das ist kaputt 23:12 01.05.2014
